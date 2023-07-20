@@ -450,7 +450,7 @@ if ($_POST['action'] == 'procesarVenta') {
       exit;
       }
 
-
+//hasjkdhjkashdjk
 
 }
 exit;
